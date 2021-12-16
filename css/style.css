@@ -16,7 +16,7 @@ header {
     width: 200px center;
     text-align: center;    
     margin: 5px;
-    background: #f3eeee url(/img/gaming\ logo.jpg) no-repeat center ;
+    background: #f3eeee url(../img/gaming-logo.jpg) no-repeat center ;
     background-size: cover;
 }
 
